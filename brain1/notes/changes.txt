@@ -1,0 +1,22 @@
+----------03-05-2023------------
+
+.best-streaks-notification-bar  remove margin-bottm
+.tab-content-data-holder add margin-bottom
+.score-list--item from wraper to global
+.justify-content-end{justify-content: flex-end;} add css
+.d-none{display: none;} add css
+header logo margin issue
+.image-responsive add class
+
+
+
+
+----------04-05-2023------------
+
+.training-history-nav to => .history-tabs--nav   change class name from html and css
+.section-title update css
+.h-scrollable-holder add class main.css
+scrollbar css
+.history-tabs--nav .nav-item .nav-link change css
+
+.cumulative-score-section to .rounded-cahrt-score change class name from html and css
